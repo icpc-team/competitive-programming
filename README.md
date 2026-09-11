@@ -5,14 +5,16 @@ Welcome to our competitive programming repository.
 ## Team Members
 
 - Dharnab
-- Member 2
-- Member 3
+- Ayush
+- Dijit
 
 ## Platforms
 
 - Codeforces
 - CSES
 - AtCoder
+- Leetcode
+- Codechef
 
 ## Goal
 
