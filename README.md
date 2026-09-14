@@ -5,8 +5,8 @@ Welcome to our competitive programming repository.
 ## Team Members
 
 - Dharnab
-- Ayush
-- Dijit
+- Arnab
+- Sagar
 
 ## Platforms
 
